@@ -1,0 +1,9 @@
+{
+  "name": "term-explainer",
+  "version": "0.1.0",
+  "description": "Claude 답변에 처음 나온 기술 용어를 비개발자도 알 수 있게 한 줄로 풀어 보여 준다",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "seodongin"
+  }
+}

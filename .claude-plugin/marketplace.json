@@ -1,0 +1,14 @@
+{
+  "name": "seodongin-mods",
+  "owner": {
+    "name": "seodongin"
+  },
+  "plugins": [
+    {
+      "name": "term-explainer",
+      "source": "./term-explainer",
+      "description": "Claude 답변에 처음 나온 기술 용어를 비개발자도 알 수 있게 한 줄로 풀어 보여 준다"
+    }
+  ],
+  "description": "seodongin 의 Claude Code 모드 모음"
+}
